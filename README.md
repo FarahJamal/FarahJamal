@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Jordan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farahjamal&label=Profile%20views&color=0e75b6&style=flat" alt="farahjamal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farahjamal&label=Profile%20views&color=0e75b6&style=flat" alt="farahjamal" style="background-color:black; color:white;"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farahjamal" alt="farahjamal" /></a> </p>
 
