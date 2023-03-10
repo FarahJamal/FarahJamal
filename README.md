@@ -159,4 +159,4 @@ CATching bugs in code...
 
 ---
 
-
+ <script src="https://tryhackme.com/badge/249272"></script>
